@@ -4,10 +4,6 @@
 # Handling Events
 # Conditional Rendering
 # Lists and Keys
-# 01
-# 02
-# 03
-# 04
 Ready ?
 Components
 Components 
